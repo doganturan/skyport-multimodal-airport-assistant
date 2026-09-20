@@ -1,0 +1,322 @@
+[
+    {
+        "record_id": "gate_a05",
+        "name": "Gate A05",
+        "category": "gate",
+        "terminal": "Terminal 1",
+        "floor_zone": "Level 2, Zone A",
+        "description": "Passenger departure gate located in Zone A.",
+        "opening_hours": "According to flight schedule",
+        "directions": "From the main security checkpoint, follow signs for Gates A01-A10.",
+        "accessibility": "Lift access and wheelchair-accessible route available.",
+        "related_facilities": [
+            "Restrooms",
+            "Airport Cafe"
+        ],
+        "assistance_contact": "Terminal 1 Information Desk"
+    },
+    {
+        "record_id": "gate_a12",
+        "name": "Gate A12",
+        "category": "gate",
+        "terminal": "Terminal 1",
+        "floor_zone": "Level 2, Zone A",
+        "description": "Passenger departure gate located in the second section of Zone A.",
+        "opening_hours": "According to flight schedule",
+        "directions": "After security, continue through Zone A and follow signs for Gates A11-A20.",
+        "accessibility": "Step-free access and wheelchair assistance available.",
+        "related_facilities": [
+            "Restrooms",
+            "Food Court"
+        ],
+        "assistance_contact": "Terminal 1 Information Desk"
+    },
+    {
+        "record_id": "gate_b12",
+        "name": "Gate B12",
+        "category": "gate",
+        "terminal": "Terminal 1",
+        "floor_zone": "Level 2, Zone B",
+        "description": "Passenger departure gate situated in Zone B.",
+        "opening_hours": "According to flight schedule",
+        "directions": "Pass security and follow the blue Zone B signs toward Gates B01-B20.",
+        "accessibility": "Lift and wheelchair-accessible route available.",
+        "related_facilities": [
+            "Restrooms",
+            "Sky Lounge"
+        ],
+        "assistance_contact": "Terminal 1 Information Desk"
+    },
+    {
+        "record_id": "gate_c07",
+        "name": "Gate C07",
+        "category": "gate",
+        "terminal": "Terminal 2",
+        "floor_zone": "Level 2, Zone C",
+        "description": "Passenger departure gate located in Terminal 2 Zone C.",
+        "opening_hours": "According to flight schedule",
+        "directions": "After Terminal 2 security, follow signs for Gates C01-C10.",
+        "accessibility": "Step-free route and mobility assistance available.",
+        "related_facilities": [
+            "Restrooms",
+            "Business Lounge"
+        ],
+        "assistance_contact": "Terminal 2 Information Desk"
+    },
+    {
+        "record_id": "baggage_t1",
+        "name": "Baggage Claim Hall A",
+        "category": "baggage_claim",
+        "terminal": "Terminal 1",
+        "floor_zone": "Ground Floor, Arrivals",
+        "description": "Main baggage collection area for Terminal 1 arrivals.",
+        "opening_hours": "According to arriving flight schedule",
+        "directions": "Follow Baggage Claim signs after passport control.",
+        "accessibility": "Fully wheelchair accessible.",
+        "related_facilities": [
+            "Lost and Found",
+            "Information Desk"
+        ],
+        "assistance_contact": "Terminal 1 Information Desk"
+    },
+    {
+        "record_id": "baggage_t2",
+        "name": "Baggage Claim Hall B",
+        "category": "baggage_claim",
+        "terminal": "Terminal 2",
+        "floor_zone": "Ground Floor, Arrivals",
+        "description": "Main baggage collection area for Terminal 2 arrivals.",
+        "opening_hours": "According to arriving flight schedule",
+        "directions": "After passport control, follow signs for Baggage Claim Hall B.",
+        "accessibility": "Step-free access available.",
+        "related_facilities": [
+            "Lost and Found",
+            "Information Desk"
+        ],
+        "assistance_contact": "Terminal 2 Information Desk"
+    },
+    {
+        "record_id": "checkin_t1",
+        "name": "Terminal 1 Check-in Area",
+        "category": "check_in",
+        "terminal": "Terminal 1",
+        "floor_zone": "Level 1, Departures",
+        "description": "Main airline check-in area for Terminal 1 departures.",
+        "opening_hours": "04:00-23:30",
+        "directions": "Enter Terminal 1 departures and follow the Check-in signs.",
+        "accessibility": "Accessible counters and wheelchair routes available.",
+        "related_facilities": [
+            "Information Desk",
+            "Security Control"
+        ],
+        "assistance_contact": "Terminal 1 Information Desk"
+    },
+    {
+        "record_id": "checkin_t2",
+        "name": "Terminal 2 Check-in Area",
+        "category": "check_in",
+        "terminal": "Terminal 2",
+        "floor_zone": "Level 1, Departures",
+        "description": "Main airline check-in area for Terminal 2 departures.",
+        "opening_hours": "04:00-23:30",
+        "directions": "Enter Terminal 2 departures and follow Check-in signs.",
+        "accessibility": "Accessible counters and step-free access available.",
+        "related_facilities": [
+            "Information Desk",
+            "Security Control"
+        ],
+        "assistance_contact": "Terminal 2 Information Desk"
+    },
+    {
+        "record_id": "security_t1",
+        "name": "Terminal 1 Security Control",
+        "category": "security",
+        "terminal": "Terminal 1",
+        "floor_zone": "Level 1, Departures",
+        "description": "Passenger security screening area for Terminal 1.",
+        "opening_hours": "04:00-23:30",
+        "directions": "Continue past the Terminal 1 check-in desks toward Security.",
+        "accessibility": "Assisted security lane available.",
+        "related_facilities": [
+            "Check-in Area",
+            "Information Desk"
+        ],
+        "assistance_contact": "Terminal 1 Information Desk"
+    },
+    {
+        "record_id": "security_t2",
+        "name": "Terminal 2 Security Control",
+        "category": "security",
+        "terminal": "Terminal 2",
+        "floor_zone": "Level 1, Departures",
+        "description": "Passenger security screening area for Terminal 2.",
+        "opening_hours": "04:00-23:30",
+        "directions": "Follow Security signs after Terminal 2 check-in.",
+        "accessibility": "Assisted security lane available.",
+        "related_facilities": [
+            "Check-in Area",
+            "Information Desk"
+        ],
+        "assistance_contact": "Terminal 2 Information Desk"
+    },
+    {
+        "record_id": "sky_lounge_t1",
+        "name": "Sky Lounge",
+        "category": "lounge",
+        "terminal": "Terminal 1",
+        "floor_zone": "Level 2, Zone B",
+        "description": "Passenger lounge offering seating, refreshments and Wi-Fi.",
+        "opening_hours": "05:00-22:00",
+        "directions": "After security, follow signs toward Zone B and take the lift to the lounge level.",
+        "accessibility": "Wheelchair accessible.",
+        "related_facilities": [
+            "Gate B12",
+            "Restrooms"
+        ],
+        "assistance_contact": "Sky Lounge Reception"
+    },
+    {
+        "record_id": "business_lounge_t2",
+        "name": "Business Lounge",
+        "category": "lounge",
+        "terminal": "Terminal 2",
+        "floor_zone": "Level 2, Zone C",
+        "description": "Quiet passenger lounge with seating, refreshments and work areas.",
+        "opening_hours": "05:30-22:30",
+        "directions": "After Terminal 2 security, follow signs toward Zone C.",
+        "accessibility": "Step-free access via lift.",
+        "related_facilities": [
+            "Gate C07",
+            "Restrooms"
+        ],
+        "assistance_contact": "Business Lounge Reception"
+    },
+    {
+        "record_id": "food_court_t1",
+        "name": "Terminal 1 Food Court",
+        "category": "restaurant",
+        "terminal": "Terminal 1",
+        "floor_zone": "Level 2, Central Area",
+        "description": "Food court offering several quick-service dining options.",
+        "opening_hours": "05:00-22:00",
+        "directions": "Located after security between Zones A and B.",
+        "accessibility": "Wheelchair accessible seating available.",
+        "related_facilities": [
+            "Gate A12",
+            "Gate B12"
+        ],
+        "assistance_contact": "Terminal 1 Information Desk"
+    },
+    {
+        "record_id": "bistro_t2",
+        "name": "Airport Bistro",
+        "category": "restaurant",
+        "terminal": "Terminal 2",
+        "floor_zone": "Level 1, Public Area",
+        "description": "Restaurant serving meals, snacks and drinks.",
+        "opening_hours": "06:00-22:00",
+        "directions": "Located near the main Terminal 2 entrance before security.",
+        "accessibility": "Wheelchair accessible.",
+        "related_facilities": [
+            "Information Desk",
+            "Check-in Area"
+        ],
+        "assistance_contact": "Terminal 2 Information Desk"
+    },
+    {
+        "record_id": "train_station",
+        "name": "Airport Train Station",
+        "category": "transport",
+        "terminal": "Transport Centre",
+        "floor_zone": "Level -1",
+        "description": "Rail connection between the airport and the city centre.",
+        "opening_hours": "04:30-01:00",
+        "directions": "Follow Train Station signs from the arrivals hall and take the escalator or lift to Level -1.",
+        "accessibility": "Lift access and step-free platforms available.",
+        "related_facilities": [
+            "Ticket Machines",
+            "Information Desk"
+        ],
+        "assistance_contact": "Transport Information Desk"
+    },
+    {
+        "record_id": "taxi_pickup",
+        "name": "Taxi Pickup Zone",
+        "category": "transport",
+        "terminal": "Ground Transport Area",
+        "floor_zone": "Ground Floor, Outside Arrivals",
+        "description": "Official airport taxi pickup area.",
+        "opening_hours": "24/7",
+        "directions": "Exit the arrivals hall and follow Taxi signs to the marked pickup lanes.",
+        "accessibility": "Accessible taxis can be requested.",
+        "related_facilities": [
+            "Bus Stop",
+            "Information Desk"
+        ],
+        "assistance_contact": "Transport Information Desk"
+    },
+    {
+        "record_id": "info_t1",
+        "name": "Terminal 1 Information Desk",
+        "category": "information",
+        "terminal": "Terminal 1",
+        "floor_zone": "Ground Floor, Central Hall",
+        "description": "Passenger information point for airport directions and general assistance.",
+        "opening_hours": "05:00-23:00",
+        "directions": "Located in the centre of the Terminal 1 public hall.",
+        "accessibility": "Lowered accessible service counter available.",
+        "related_facilities": [
+            "Check-in Area",
+            "Special Assistance"
+        ],
+        "assistance_contact": "Airport Customer Service"
+    },
+    {
+        "record_id": "info_t2",
+        "name": "Terminal 2 Information Desk",
+        "category": "information",
+        "terminal": "Terminal 2",
+        "floor_zone": "Ground Floor, Central Hall",
+        "description": "Passenger information point for Terminal 2.",
+        "opening_hours": "05:00-23:00",
+        "directions": "Located opposite the Terminal 2 main entrance.",
+        "accessibility": "Lowered accessible service counter available.",
+        "related_facilities": [
+            "Check-in Area",
+            "Airport Bistro"
+        ],
+        "assistance_contact": "Airport Customer Service"
+    },
+    {
+        "record_id": "lost_found",
+        "name": "Lost and Found Office",
+        "category": "lost_and_found",
+        "terminal": "Terminal 1",
+        "floor_zone": "Ground Floor, Arrivals",
+        "description": "Office for reporting and collecting property lost within the airport.",
+        "opening_hours": "08:00-20:00",
+        "directions": "From Terminal 1 baggage claim, follow Lost and Found signs.",
+        "accessibility": "Wheelchair accessible.",
+        "related_facilities": [
+            "Baggage Claim Hall A",
+            "Information Desk"
+        ],
+        "assistance_contact": "Lost and Found Office"
+    },
+    {
+        "record_id": "special_assistance",
+        "name": "Special Assistance Desk",
+        "category": "special_assistance",
+        "terminal": "Terminal 1",
+        "floor_zone": "Ground Floor, Main Entrance",
+        "description": "Support point for passengers requiring mobility or additional travel assistance.",
+        "opening_hours": "04:30-23:30",
+        "directions": "Located beside the Terminal 1 Information Desk near the main entrance.",
+        "accessibility": "Designed for passengers with reduced mobility and additional support needs.",
+        "related_facilities": [
+            "Information Desk",
+            "Check-in Area"
+        ],
+        "assistance_contact": "Special Assistance Team"
+    }
+]
